@@ -106,24 +106,8 @@ export default function App() {
                 LinkedIn
               </a>
 
-              <a
-                href="/resume.pdf"
-                target="_blank"
-                className="
-                  border
-                  border-purple-500/40
-                  rounded-full
-                  px-5
-                  py-2
-                  uppercase
-                  text-xs
-                  tracking-[0.25em]
-                  hover:bg-purple-500
-                  transition
-                "
-              >
-                Resume
-              </a>
+              
+               
             </div>
           </nav>
         </div>
